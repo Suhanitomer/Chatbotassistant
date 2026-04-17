@@ -1,6 +1,14 @@
 streamlit
 python-dotenv
+langchain-core
 langchain-groq
+groq
 pandas
 pypdf
+pdfplumber
 docx2txt
+duckduckgo-search
+requests
+beautifulsoup4
+PyMuPDF
+rapidocr-onnxruntime
